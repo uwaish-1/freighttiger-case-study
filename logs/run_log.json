@@ -1,0 +1,17 @@
+{
+  "run_timestamp_utc": "2026-10-14T21:34:18.828732+00:00",
+  "input": {
+    "shipment_rows": 2940,
+    "weekly_rows": 728
+  },
+  "output": {
+    "rows": 728,
+    "normal": 708,
+    "justified": 3,
+    "unexplained": 17
+  },
+  "configuration": {
+    "history_window_weeks": 8,
+    "anomaly_threshold_pct": 20.0
+  }
+}
